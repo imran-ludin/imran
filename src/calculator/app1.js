@@ -12,7 +12,8 @@ function App() {
                 </div>
                 <div>
                     <input type="button" value="AC" />
-                    <input type="button" value="DE" />
+                    <input type="button" value="AE" />
+                    
                     <input type="button" value="." />
                     <input type="button" value="/" />
                 </div>
